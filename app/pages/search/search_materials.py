@@ -63,9 +63,9 @@ def process_hits(hits):
 
 # ── 4. STREAMLIT UI ────────────────────────────────────────────────────────
 
-st.set_page_config(page_title="IFC Material RAG Explorer", page_icon="🏗️", layout="wide")
+st.set_page_config(page_title="Material RAG Explorer", page_icon="🏗️", layout="wide")
 
-st.title("🏗️ IFC Material Search Agent")
+st.title("🏗️ Material Search")
 st.caption("Search the Material that are in the uploaded Material Database by inputing a name." \
 " We try to be as agnostic to language and exact forumlations as possible.")
 

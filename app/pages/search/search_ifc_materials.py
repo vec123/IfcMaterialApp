@@ -65,7 +65,7 @@ def process_hits(hits):
 
 st.set_page_config(page_title="IFC Material RAG Explorer", page_icon="🏗️", layout="wide")
 
-st.title("🏗️ IFC Material Search Agent")
+st.title("🏗️ IFC Material Search")
 st.caption("Search the Material names that are in the uploaded Ifc by inputing a name." \
 " We try to be as agnostic to language and exact forumlations as possible.")
 
