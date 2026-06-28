@@ -1,0 +1,48 @@
+{
+  "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)": {
+    "input": {
+      "raw_mat_name": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+      "properties": {
+        "density": 780.0,
+        "thermal_conductivity": 0.3499999999999999,
+        "specific_heat": 1000.0
+      }
+    },
+    "output": {
+      "name": "ladrillo cerámico",
+      "variations": [
+        "Ladrillo cerámico",
+        "Fábrica de ladrillo cerámico con juntas continuas de mortero",
+        "Maó ceràmic",
+        "Fàbrica de maó ceràmic amb juntes contínues de morter",
+        "Ceramic brick",
+        "Ceramic brickwork with continuous mortar joints"
+      ],
+      "spanish description": "Elemento constructivo de albañilería compuesto por ladrillos cerámicos unidos con mortero, presentando juntas continuas sin interrupción.",
+      "english description": "A masonry construction element composed of ceramic bricks joined with mortar, featuring continuous, uninterrupted joints."
+    }
+  },
+  "revestimiento intermedio": {
+    "input": {
+      "raw_mat_name": "revestimiento intermedio",
+      "properties": {
+        "density": 1900.0,
+        "thermal_conductivity": 1.3,
+        "specific_heat": 1000.0
+      }
+    },
+    "output": {
+      "name": "Revestimiento intermedio",
+      "variations": [
+        "Revestimiento intermedio",
+        "Capa intermedia",
+        "Revestiment intermedi",
+        "Capa intermèdia",
+        "Intermediate coating",
+        "Intermediate layer"
+      ],
+      "spanish description": "Elemento constructivo que forma una capa de revestimiento ubicada entre otras capas, o que sirve como acabado provisional.",
+      "english description": "A construction element that forms a coating or layer situated between other layers, or serves as an interim finish."
+    }
+  }
+}

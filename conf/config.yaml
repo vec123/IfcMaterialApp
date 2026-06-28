@@ -1,0 +1,53 @@
+# ── PATH CONFIGURATIONS ──────────────────────────────────────────────────────
+paths:
+  ifc_extracted_dir: "data/uploaded_ifc"
+  ifc_extracted_file: "data/uploaded_ifc/ifc.ifc"
+  ifc_extracted_element_to_typology: "data/uploaded_ifc/element_to_typology.json"
+  ifc_extracted_element_missing_typology: "data/uploaded_ifc/element_without_typology.json"
+  ifc_extracted_typology_layers:  "data/uploaded_ifc/typologies_as_layers.json"
+  ifc_extracted_unique_materials:  "data/uploaded_ifc/unique_materials.json"
+  ifc_extracted_LLM_parsing:  "data/uploaded_ifc/agent_inspection.json"
+  materials_file: "data/uploaded_materials/materials.json"
+  unstructured_materials_file: "data/uploaded_materials/materials_from_text.json"
+  typologies_file: "data/uploaded_typologies//typologies.json"
+  vector_db_path: "data/vector_dbs/material_vector_cb"
+  ifc_vector_db_path: "data/vector_dbs/ifc_vector_db"
+  graph_edges_path: "data/connections/materials_typologies_connections.json"
+  ifc_graph_edges_path: "data/connections/ifc_connections.json"
+  tmp_match_matrix: "data/matching/automated_matching.json"
+  match_matrix: "data/matching/validated_matching.json"
+
+# ── VECTOR STORAGE & EMBEDDING PIPELINE ──────────────────────────────────────
+vector_store:
+  typology_collection_name: "typologies_v1"
+  material_collection_name: "materials_v1"
+  ifc_element_collection_name: "ifc_elements_v1"
+  
+  # Options: "google" | "local" - atm only local works
+  embedding_provider: "local"
+  embedding_model: "intfloat/multilingual-e5-large"
+  # embedding_model: "text-embedding-004"
+  
+  # reranker not used atm
+  # reranker: "BAAI/bge-reranker-v2-m3"
+  batch_size: 32
+
+# ── INGESTION & DATA TRANSFORMATION STAGE ───────────────────────────────────
+ingestion:
+  ingestion_provider: "google"
+  ingestion_model: "gemini-2.5-flash"
+
+
+# ── EXTRACTION & PRODUCTION AGENTS ──────────────────────────────────────────
+agent:
+  # Options: "google" | "groq" | "ollama"
+  agent_provider: "google"
+  agent_model: "gemini-2.5-flash"
+  
+  system_prompt: >
+    You are a construction expert. 
+    Extract only the names of building materials from the user's description.
+    Separate materials with a colon.
+
+compute:
+  device: "cuda"

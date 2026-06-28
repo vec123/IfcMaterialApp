@@ -1,0 +1,954 @@
+{
+  "B051_01_Morter": {
+    "source_text": "Material Description (EN): Morter",
+    "source_metadata": {
+      "clean_name": "Morter",
+      "origin_ifc_type": "IfcWall",
+      "material_id": "B051_01_Morter"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7768,
+        "metadata": {
+          "density": 1900.0,
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "material_id": "revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7611,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico"
+        }
+      }
+    ]
+  },
+  "B051_01_Morter de Guix": {
+    "source_text": "Material Description (EN): B051_01_Morter de Guix",
+    "source_metadata": {
+      "clean_name": "B051_01_Morter de Guix",
+      "origin_ifc_type": "IfcWall",
+      "material_id": "B051_01_Morter de Guix"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7708,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.753,
+        "metadata": {
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "specific_heat": 1000.0
+        }
+      }
+    ]
+  },
+  "B053_01_Morter de Calç": {
+    "source_text": "Material Description (EN): Morter de Calç",
+    "source_metadata": {
+      "origin_ifc_type": "IfcWall",
+      "material_id": "B053_01_Morter de Calç",
+      "clean_name": "Morter de Calç"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.8041,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3,
+          "density": 1900.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7969,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "B0CC_02_Placa de Guix": {
+    "source_text": "Material Description (EN): Placa de Guix",
+    "source_metadata": {
+      "material_id": "B0CC_02_Placa de Guix",
+      "clean_name": "Placa de Guix",
+      "origin_ifc_type": "IfcWall"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7899,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3,
+          "clean_name": "Revestimiento intermedio",
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7796,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "thermal_conductivity": 0.3499999999999999,
+          "specific_heat": 1000.0,
+          "density": 780.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "B0F1_01_Maó Massís": {
+    "source_text": "Material Description (EN): Maó Massís",
+    "source_metadata": {
+      "material_id": "B0F1_01_Maó Massís",
+      "clean_name": "Maó Massís",
+      "origin_ifc_type": "IfcWall"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.8226,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico",
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0,
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.7761,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio"
+        }
+      }
+    ]
+  },
+  "B0FG_01_Rajola Ceràmica": {
+    "source_text": "Material Description (EN): Rajola Ceràmica",
+    "source_metadata": {
+      "origin_ifc_type": "IfcWall",
+      "clean_name": "Rajola Ceràmica",
+      "material_id": "B0FG_01_Rajola Ceràmica"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.8282,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "density": 780.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico",
+          "thermal_conductivity": 0.3499999999999999
+        }
+      },
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7963,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0
+        }
+      }
+    ]
+  },
+  "B7D9_01_Aïllament + Perfileria": {
+    "source_text": "Material Description (EN): Aïllament + Perfileria",
+    "source_metadata": {
+      "clean_name": "Aïllament + Perfileria",
+      "origin_ifc_type": "IfcWall",
+      "material_id": "B7D9_01_Aïllament + Perfileria"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7934,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "density": 1900.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7654,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999
+        }
+      }
+    ]
+  },
+  "B863_02_Acer Inoxidable": {
+    "source_text": "Material Description (EN): Acer Inoxidable",
+    "source_metadata": {
+      "clean_name": "Acer Inoxidable",
+      "material_id": "B863_02_Acer Inoxidable",
+      "origin_ifc_type": "IfcWall"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.785,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "material_id": "revestimiento intermedio",
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "density": 1900.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7814,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999
+        }
+      }
+    ]
+  },
+  "B89Z_03_Pintura": {
+    "source_text": "Material Description (EN): Pintura",
+    "source_metadata": {
+      "material_id": "B89Z_03_Pintura",
+      "clean_name": "Pintura",
+      "origin_ifc_type": "IfcWall"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.8326,
+        "metadata": {
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7703,
+        "metadata": {
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "B064_01_Formigó Estructural": {
+    "source_text": "Material Description (EN): Formigó Estructural",
+    "source_metadata": {
+      "material_id": "B064_01_Formigó Estructural",
+      "clean_name": "Formigó Estructural",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7861,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio",
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.767,
+        "metadata": {
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "B0BB_01_Subestructura Metàl·lica": {
+    "source_text": "Material Description (EN): Subestructura Metàl·lica",
+    "source_metadata": {
+      "origin_ifc_type": "IfcSlab",
+      "clean_name": "Subestructura Metàl·lica",
+      "material_id": "B0BB_01_Subestructura Metàl·lica"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7991,
+        "metadata": {
+          "thermal_conductivity": 1.3,
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7892,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "specific_heat": 1000.0
+        }
+      }
+    ]
+  },
+  "B0CU_11_Fusta Massisa Roure Revestiments": {
+    "source_text": "Material Description (EN): Fusta Massisa Roure Revestiments",
+    "source_metadata": {
+      "clean_name": "Fusta Massisa Roure Revestiments",
+      "origin_ifc_type": "IfcSlab",
+      "material_id": "B0CU_11_Fusta Massisa Roure Revestiments"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7843,
+        "metadata": {
+          "density": 1900.0,
+          "specific_heat": 1000.0,
+          "material_id": "revestimiento intermedio",
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7524,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "B522_01_Teula Arab": {
+    "source_text": "Material Description (EN): Teula Arab",
+    "source_metadata": {
+      "material_id": "B522_01_Teula Arab",
+      "origin_ifc_type": "IfcSlab",
+      "clean_name": "Teula Arab"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7763,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "density": 1900.0,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7626,
+        "metadata": {
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "specific_heat": 1000.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico"
+        }
+      }
+    ]
+  },
+  "B561_01_Onduline Placa de Policarbonat": {
+    "source_text": "Material Description (EN): Onduline Placa de Policarbonat",
+    "source_metadata": {
+      "clean_name": "Onduline Placa de Policarbonat",
+      "origin_ifc_type": "IfcSlab",
+      "material_id": "B561_01_Onduline Placa de Policarbonat"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7957,
+        "metadata": {
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7793,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "B7C2_01_Aislamiento Cubierta": {
+    "source_text": "Material Description (EN): Aislamiento Cubierta",
+    "source_metadata": {
+      "material_id": "B7C2_01_Aislamiento Cubierta",
+      "clean_name": "Aislamiento Cubierta",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.8194,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0,
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7737,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0,
+          "specific_heat": 1000.0
+        }
+      }
+    ]
+  },
+  "B9DC_01_Ceramica60x40": {
+    "source_text": "Material Description (EN): Ceramica",
+    "source_metadata": {
+      "material_id": "B9DC_01_Ceramica60x40",
+      "origin_ifc_type": "IfcSlab",
+      "clean_name": "Ceramica"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.8355,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "specific_heat": 1000.0,
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999
+        }
+      },
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.7966,
+        "metadata": {
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "clean_name": "Revestimiento intermedio"
+        }
+      }
+    ]
+  },
+  "BAF2_03_Perfil d'alumini anoditzat": {
+    "source_text": "Material Description (EN): Perfil d'alumini anoditzat",
+    "source_metadata": {
+      "clean_name": "Perfil d'alumini anoditzat",
+      "material_id": "BAF2_03_Perfil d'alumini anoditzat",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7944,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3,
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7726,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "clean_name": "ladrillo cerámico",
+          "thermal_conductivity": 0.3499999999999999
+        }
+      }
+    ]
+  },
+  "<Unnamed>": {
+    "source_text": "Material Description (EN): Unnamed",
+    "source_metadata": {
+      "clean_name": "Unnamed",
+      "material_id": "<Unnamed>",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7955,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "density": 1900.0,
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7791,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "specific_heat": 1000.0
+        }
+      }
+    ]
+  },
+  "BA1D_03_Finestra de Fusta": {
+    "source_text": "Material Description (EN): Finestra de Fusta",
+    "source_metadata": {
+      "clean_name": "Finestra de Fusta",
+      "origin_ifc_type": "IfcDoor",
+      "material_id": "BA1D_03_Finestra de Fusta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.7983,
+        "metadata": {
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.772,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "BAFA_01_Porta d'alumini": {
+    "source_text": "Material Description (EN): Porta d'alumini",
+    "source_metadata": {
+      "origin_ifc_type": "IfcDoor",
+      "material_id": "BAFA_01_Porta d'alumini",
+      "clean_name": "Porta d'alumini"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.788,
+        "metadata": {
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0,
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 1.3,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7721,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "BAP3_01_Bastiment de Fusta": {
+    "source_text": "Material Description (EN): Bastiment de Fusta",
+    "source_metadata": {
+      "origin_ifc_type": "IfcDoor",
+      "clean_name": "Bastiment de Fusta",
+      "material_id": "BAP3_01_Bastiment de Fusta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.8059,
+        "metadata": {
+          "density": 1900.0,
+          "thermal_conductivity": 1.3,
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7786,
+        "metadata": {
+          "density": 780.0,
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "BAQD_05_Panel de Fusta": {
+    "source_text": "Material Description (EN): Panel de Fusta",
+    "source_metadata": {
+      "material_id": "BAQD_05_Panel de Fusta",
+      "origin_ifc_type": "IfcDoor",
+      "clean_name": "Panel de Fusta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.8051,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7813,
+        "metadata": {
+          "density": 780.0,
+          "clean_name": "ladrillo cerámico",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "BAV3_01_Porticó de Fusta": {
+    "source_text": "Material Description (EN): Porticó de Fusta",
+    "source_metadata": {
+      "clean_name": "Porticó de Fusta",
+      "origin_ifc_type": "IfcDoor",
+      "material_id": "BAV3_01_Porticó de Fusta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.787,
+        "metadata": {
+          "density": 1900.0,
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "material_id": "revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7865,
+        "metadata": {
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "specific_heat": 1000.0
+        }
+      }
+    ]
+  },
+  "BAZG_01_Ferramenta Porta": {
+    "source_text": "Material Description (EN): Ferramenta Porta",
+    "source_metadata": {
+      "origin_ifc_type": "IfcDoor",
+      "material_id": "BAZG_01_Ferramenta Porta",
+      "clean_name": "Ferramenta Porta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.8057,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "specific_heat": 1000.0,
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7801,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "BC12_01_Vidre": {
+    "source_text": "Material Description (EN): Vidre",
+    "source_metadata": {
+      "origin_ifc_type": "IfcDoor",
+      "clean_name": "Vidre",
+      "material_id": "BC12_01_Vidre"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7871,
+        "metadata": {
+          "density": 1900.0,
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "clean_name": "Revestimiento intermedio",
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_0",
+        "score": 0.7632,
+        "metadata": {
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "thermal_conductivity": 0.3499999999999999,
+          "clean_name": "ladrillo cerámico",
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)"
+        }
+      }
+    ]
+  },
+  "Default": {
+    "source_text": "Material Description (EN): Default Material",
+    "source_metadata": {
+      "clean_name": "Default Material",
+      "origin_ifc_type": "IfcDoor",
+      "material_id": "Default"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7985,
+        "metadata": {
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "density": 1900.0,
+          "specific_heat": 1000.0,
+          "clean_name": "Revestimiento intermedio"
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7724,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999,
+          "specific_heat": 1000.0,
+          "clean_name": "ladrillo cerámico",
+          "density": 780.0
+        }
+      }
+    ]
+  },
+  "B433_01_Fusta": {
+    "source_text": "Material Description (EN): Fusta",
+    "source_metadata": {
+      "material_id": "B433_01_Fusta",
+      "origin_ifc_type": "IfcBeam",
+      "clean_name": "Fusta"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_0",
+        "score": 0.7975,
+        "metadata": {
+          "density": 1900.0,
+          "clean_name": "Revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "material_id": "revestimiento intermedio",
+          "specific_heat": 1000.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_0",
+        "score": 0.7794,
+        "metadata": {
+          "specific_heat": 1000.0,
+          "density": 780.0,
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "clean_name": "ladrillo cerámico",
+          "thermal_conductivity": 0.3499999999999999
+        }
+      }
+    ]
+  },
+  "B44Z _01_Acer_ASTM A36": {
+    "source_text": "Material Description (EN): Acero ASTM A36",
+    "source_metadata": {
+      "origin_ifc_type": "IfcBeam",
+      "material_id": "B44Z _01_Acer_ASTM A36",
+      "clean_name": "Acero ASTM A36"
+    },
+    "matches": [
+      {
+        "canonical_material_id": "revestimiento intermedio",
+        "winning_chunk_id": "revestimiento intermedio##var_2",
+        "score": 0.7808,
+        "metadata": {
+          "clean_name": "Revestimiento intermedio",
+          "material_id": "revestimiento intermedio",
+          "thermal_conductivity": 1.3,
+          "specific_heat": 1000.0,
+          "density": 1900.0
+        }
+      },
+      {
+        "canonical_material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+        "winning_chunk_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)##var_2",
+        "score": 0.7747,
+        "metadata": {
+          "material_id": "fábrica de ladrillo cerámico (juntas de mortero sin interrupción)",
+          "thermal_conductivity": 0.3499999999999999,
+          "density": 780.0,
+          "specific_heat": 1000.0,
+          "clean_name": "ladrillo cerámico"
+        }
+      }
+    ]
+  }
+}

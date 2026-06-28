@@ -1,0 +1,35 @@
+{
+  "IfcWall": [
+    "30.10.10.10_FAC_Massissa_35cm_201482_26200",
+    "30.10.10.10_FAC_Massissa_35cm_201581_27350",
+    "30.10.10.10_FAC_Massissa_35cm_284446_65032",
+    "30.10.20.40_FAC_Reixa enrollable_434926_99196"
+  ],
+  "IfcSlab": [],
+  "IfcRoof": [
+    "30.20.10.10_COB_CobertaOnduline_20cm_318672_74707",
+    "30.20.10.20_COB_PrefCobertaMetalica_348679_77607",
+    "30.20.10.10_COB_CobertaTeulaArab_20cm_361725_78426"
+  ],
+  "IfcDoor": [],
+  "IfcWindow": [],
+  "IfcBeam": [],
+  "IfcColumn": [],
+  "IfcStair": [
+    "20.20.10.40_EST-V_Escala_208902_31483",
+    "20.20.10.40_EST-V_Escala_209443_34020",
+    "20.20.10.40_EST-V_Escala_254497_56777",
+    "20.20.20.10_EST-H_Forjat_Llosa Massisa_319954_75549"
+  ],
+  "IfcCurtainWall": [
+    "40.10.10.10_DIV_EnvaVidre_397989_79255",
+    "40.10.10.10_DIV_EnvaVidre_402035_81592",
+    "40.10.10.10_DIV_EnvaVidre_402197_83823",
+    "40.10.10.10_DIV_EnvaVidre_403347_85837",
+    "40.10.10.10_DIV_EnvaVidre_403388_87745",
+    "40.10.10.10_DIV_EnvaVidre_403429_89693",
+    "40.10.10.10_DIV_EnvaVidre_403472_91641",
+    "40.10.10.10_DIV_EnvaVidre_403513_93795",
+    "40.10.10.10_DIV_EnvaVidre_403554_95844"
+  ]
+}

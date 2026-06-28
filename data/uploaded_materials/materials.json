@@ -1,0 +1,12 @@
+{
+    "f\u00e1brica de ladrillo cer\u00e1mico (juntas de mortero sin interrupci\u00f3n)": {
+        "density": 780.0,
+        "thermal_conductivity": 0.3499999999999999,
+        "specific_heat": 1000.0
+    },
+    "revestimiento intermedio": {
+        "density": 1900.0,
+        "thermal_conductivity": 1.3,
+        "specific_heat": 1000.0
+    }
+}

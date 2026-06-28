@@ -1,0 +1,63 @@
+{
+  "IfcWall": [
+    "B051_01_Morter",
+    "B051_01_Morter de Guix",
+    "B053_01_Morter de Calç",
+    "B0CC_02_Placa de Guix",
+    "B0F1_01_Maó Massís",
+    "B0FG_01_Rajola Ceràmica",
+    "B7D9_01_Aïllament + Perfileria",
+    "B863_02_Acer Inoxidable",
+    "B89Z_03_Pintura"
+  ],
+  "IfcSlab": [
+    "B051_01_Morter",
+    "B064_01_Formigó Estructural",
+    "B0BB_01_Subestructura Metàl·lica",
+    "B0CU_11_Fusta Massisa Roure Revestiments",
+    "B0FG_01_Rajola Ceràmica",
+    "B522_01_Teula Arab",
+    "B561_01_Onduline Placa de Policarbonat",
+    "B7C2_01_Aislamiento Cubierta",
+    "B9DC_01_Ceramica60x40",
+    "BAF2_03_Perfil d'alumini anoditzat"
+  ],
+  "IfcRoof": [
+    "B0CU_11_Fusta Massisa Roure Revestiments",
+    "B522_01_Teula Arab",
+    "B7C2_01_Aislamiento Cubierta"
+  ],
+  "IfcDoor": [
+    "<Unnamed>",
+    "B863_02_Acer Inoxidable",
+    "BA1D_03_Finestra de Fusta",
+    "BAF2_03_Perfil d'alumini anoditzat",
+    "BAFA_01_Porta d'alumini",
+    "BAP3_01_Bastiment de Fusta",
+    "BAQD_05_Panel de Fusta",
+    "BAV3_01_Porticó de Fusta",
+    "BAZG_01_Ferramenta Porta",
+    "BC12_01_Vidre",
+    "Default"
+  ],
+  "IfcWindow": [
+    "<Unnamed>",
+    "BA1D_03_Finestra de Fusta",
+    "BAF2_03_Perfil d'alumini anoditzat",
+    "BAV3_01_Porticó de Fusta",
+    "BC12_01_Vidre",
+    "Default"
+  ],
+  "IfcBeam": [
+    "B433_01_Fusta",
+    "B44Z _01_Acer_ASTM A36"
+  ],
+  "IfcColumn": [
+    "B44Z _01_Acer_ASTM A36"
+  ],
+  "IfcStair": [
+    "B064_01_Formigó Estructural",
+    "B9DC_01_Ceramica60x40"
+  ],
+  "IfcCurtainWall": []
+}

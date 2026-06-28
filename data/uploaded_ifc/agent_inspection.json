@@ -1,0 +1,525 @@
+{
+  "B051_01_Morter": {
+    "input": {
+      "raw_mat_name": "B051_01_Morter",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Morter",
+      "variations": [
+        "Mortero",
+        "Argamasa",
+        "Morter",
+        "Morter d'obra",
+        "Mortar",
+        "Masonry mortar"
+      ],
+      "spanish description": "Material de construcción pastoso compuesto de aglomerante (cemento, cal o yeso), arena y agua, utilizado para unir elementos de mampostería como ladrillos, bloques o piedras, y para revestimientos o revocos.",
+      "english description": "A pasty construction material composed of a binder (cement, lime, or gypsum), sand, and water, used to bond masonry elements such as bricks, blocks, or stones, and for renderings or plasters."
+    }
+  },
+  "B051_01_Morter de Guix": {
+    "input": {
+      "raw_mat_name": "B051_01_Morter de Guix",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "error": "Empty response from LLM",
+      "variations": []
+    }
+  },
+  "B053_01_Morter de Calç": {
+    "input": {
+      "raw_mat_name": "B053_01_Morter de Calç",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Morter de Calç",
+      "variations": [
+        "Mortero de cal",
+        "Argamasa de cal",
+        "Morter de calç",
+        "Argamassa de calç",
+        "Lime mortar",
+        "Lime-based mortar"
+      ],
+      "spanish description": "Material de construcción compuesto principalmente de cal, arena y agua, utilizado para unir elementos de albañilería o como revestimiento.",
+      "english description": "A building material primarily composed of lime, sand, and water, used for bonding masonry units or as a rendering/plastering coat."
+    }
+  },
+  "B0CC_02_Placa de Guix": {
+    "input": {
+      "raw_mat_name": "B0CC_02_Placa de Guix",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Placa de Guix",
+      "variations": [
+        "Placa de yeso",
+        "Panel de yeso",
+        "Placa de guix",
+        "Cartró-guix",
+        "Gypsum board",
+        "Drywall"
+      ],
+      "spanish description": "Elemento constructivo prefabricado, comúnmente utilizado para la construcción de tabiques, techos y revestimientos interiores. Se compone principalmente de un núcleo de yeso cubierto por capas de cartón.",
+      "english description": "A pre-fabricated building element commonly used for constructing partitions, ceilings, and interior linings. It primarily consists of a gypsum core sandwiched between layers of paper or fiberglass."
+    }
+  },
+  "B0F1_01_Maó Massís": {
+    "input": {
+      "raw_mat_name": "B0F1_01_Maó Massís",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Maó Massís",
+      "variations": [
+        "Ladrillo Macizo",
+        "Ladrillo de Arcilla Macizo",
+        "Maó massís",
+        "Totxo massís",
+        "Solid Brick",
+        "Common Solid Brick"
+      ],
+      "spanish description": "Material de construcción principal que consiste en ladrillos de arcilla sin perforaciones, utilizados para mampostería y estructuras portantes.",
+      "english description": "Primary construction material consisting of unperforated clay bricks, used for masonry and load-bearing structures."
+    }
+  },
+  "B0FG_01_Rajola Ceràmica": {
+    "input": {
+      "raw_mat_name": "B0FG_01_Rajola Ceràmica",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Rajola Ceràmica",
+      "variations": [
+        "Baldosa cerámica",
+        "Azulejo",
+        "Rajola ceràmica",
+        "Taulell ceràmic",
+        "Ceramic tile",
+        "Glazed ceramic"
+      ],
+      "spanish description": "Elemento de construcción que consiste en una pieza delgada de cerámica utilizada para revestir suelos, paredes o superficies, proporcionando un acabado decorativo y protector.",
+      "english description": "A construction element consisting of a thin ceramic piece used for cladding floors, walls, or surfaces, providing a decorative and protective finish."
+    }
+  },
+  "B7D9_01_Aïllament + Perfileria": {
+    "input": {
+      "raw_mat_name": "B7D9_01_Aïllament + Perfileria",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Aïllament + Perfileria",
+      "variations": [
+        "Aïllament i perfileria",
+        "Sistema d'aïllament amb perfils",
+        "Aislamiento y perfilería",
+        "Sistema de aislamiento con perfiles",
+        "Insulation and profiles",
+        "Insulation system with framing"
+      ],
+      "spanish description": "Elemento constructivo que combina un material aislante con una estructura o sistema de perfiles, generalmente metálicos, para soporte o conformación de un cerramiento.",
+      "english description": "Construction element combining an insulating material with a structure or system of profiles, typically metallic, for support or formation of an enclosure."
+    }
+  },
+  "B863_02_Acer Inoxidable": {
+    "input": {
+      "raw_mat_name": "B863_02_Acer Inoxidable",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Acer Inoxidable",
+      "variations": [
+        "Acero Inoxidable",
+        "Inox",
+        "Acer Inoxidable",
+        "Inox",
+        "Stainless Steel",
+        "Corrosion-resistant steel"
+      ],
+      "spanish description": "Elemento constructivo fabricado con acero inoxidable, un material metálico aleado conocido por su excelente resistencia a la corrosión, durabilidad y aspecto estético. Comúnmente empleado en estructuras, revestimientos, accesorios y componentes expuestos a ambientes agresivos o que requieren alta higiene.",
+      "english description": "Construction element made from stainless steel, an alloyed metallic material known for its excellent corrosion resistance, durability, and aesthetic appearance. Commonly used in structures, claddings, fixtures, and components exposed to aggressive environments or requiring high hygiene."
+    }
+  },
+  "B89Z_03_Pintura": {
+    "input": {
+      "raw_mat_name": "B89Z_03_Pintura",
+      "origin_ifc_type": "IfcWall"
+    },
+    "output": {
+      "name": "Pintura",
+      "variations": [
+        "Pintura",
+        "Revestimiento de pintura",
+        "Pintura",
+        "Revestiment de pintura",
+        "Paint",
+        "Paint coating"
+      ],
+      "spanish description": "Un revestimiento decorativo o protector aplicado sobre una superficie.",
+      "english description": "A decorative or protective coating applied to a surface."
+    }
+  },
+  "B064_01_Formigó Estructural": {
+    "input": {
+      "raw_mat_name": "B064_01_Formigó Estructural",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Formigó Estructural",
+      "variations": [
+        "Hormigón Estructural",
+        "Concreto Estructural",
+        "Formigó Estructural",
+        "Formigó de Càrrega",
+        "Structural Concrete",
+        "Load-Bearing Concrete"
+      ],
+      "spanish description": "Material de construcción compuesto principalmente por cemento, áridos y agua, diseñado específicamente para soportar cargas y formar los elementos portantes de una estructura, como cimientos, columnas, vigas y losas.",
+      "english description": "A construction material primarily composed of cement, aggregates, and water, specifically designed to withstand loads and form the load-bearing elements of a structure, such as foundations, columns, beams, and slabs."
+    }
+  },
+  "B0BB_01_Subestructura Metàl·lica": {
+    "input": {
+      "raw_mat_name": "B0BB_01_Subestructura Metàl·lica",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Subestructura Metàl·lica",
+      "variations": [
+        "Subestructura metálica",
+        "Estructura de acero",
+        "Subestructura metàl·lica",
+        "Estructura d'acer",
+        "Metallic substructure",
+        "Steel substructure"
+      ],
+      "spanish description": "Elemento estructural que forma parte de la base o soporte de una construcción, fabricado con metal.",
+      "english description": "Structural element that forms part of the base or support of a building, made of metal."
+    }
+  },
+  "B0CU_11_Fusta Massisa Roure Revestiments": {
+    "input": {
+      "raw_mat_name": "B0CU_11_Fusta Massisa Roure Revestiments",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Fusta Massisa Roure Revestiments",
+      "variations": [
+        "Revestimiento de Madera Maciza de Roble",
+        "Forro de Madera Maciza de Roble",
+        "Revestiment de Fusta Massisa de Roure",
+        "Folratge de Fusta Massisa de Roure",
+        "Solid Oak Wood Cladding",
+        "Solid Oak Wood Lining"
+      ],
+      "spanish description": "Elemento constructivo consistente en un revestimiento o forro de madera maciza de roble.",
+      "english description": "Construction element consisting of a cladding or lining made of solid oak wood."
+    }
+  },
+  "B522_01_Teula Arab": {
+    "input": {
+      "raw_mat_name": "B522_01_Teula Arab",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Teula Arab",
+      "variations": [
+        "Teja árabe",
+        "Teja morisca",
+        "Teula àrab",
+        "Teula morisca",
+        "Arabian tile",
+        "Moorish tile"
+      ],
+      "spanish description": "Elemento de cubierta cerámico, característico por su forma curva o en 'S', tradicionalmente utilizado en la arquitectura mediterránea y con influencia árabe para la protección contra la intemperie.",
+      "english description": "A ceramic roofing element, characterized by its curved or 'S' shape, traditionally used in Mediterranean and Arab-influenced architecture for weather protection."
+    }
+  },
+  "B561_01_Onduline Placa de Policarbonat": {
+    "input": {
+      "raw_mat_name": "B561_01_Onduline Placa de Policarbonat",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Onduline Placa de Policarbonat",
+      "variations": [
+        "Plancha de Policarbonato Onduline",
+        "Placa de Policarbonato",
+        "Placa de Policarbonat Onduline",
+        "Panell de Policarbonat",
+        "Onduline Polycarbonate Sheet",
+        "Polycarbonate Panel"
+      ],
+      "spanish description": "Elemento de construcción que consiste en una plancha o panel de policarbonato, un material termoplástico transparente y resistente. Este producto específico está asociado a la marca Onduline.",
+      "english description": "Construction element consisting of a polycarbonate sheet or panel, a transparent and resistant thermoplastic material. This specific product is associated with the Onduline brand."
+    }
+  },
+  "B7C2_01_Aislamiento Cubierta": {
+    "input": {
+      "raw_mat_name": "B7C2_01_Aislamiento Cubierta",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Aislamiento Cubierta",
+      "variations": [
+        "Aislamiento de cubierta",
+        "Aislante para cubierta",
+        "Aïllament de coberta",
+        "Aïllant per a coberta",
+        "Roof insulation",
+        "Insulation for roofs"
+      ],
+      "spanish description": "Material diseñado para reducir la transferencia de calor o sonido a través de la cubierta de un edificio, contribuyendo a la eficiencia energética y el confort.",
+      "english description": "Material designed to reduce heat or sound transfer through the roof of a building, contributing to energy efficiency and comfort."
+    }
+  },
+  "B9DC_01_Ceramica60x40": {
+    "input": {
+      "raw_mat_name": "B9DC_01_Ceramica60x40",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Ceramica",
+      "variations": [
+        "Cerámica",
+        "Azulejo cerámico",
+        "Ceràmica",
+        "Rajola ceràmica",
+        "Ceramic",
+        "Ceramic tile"
+      ],
+      "spanish description": "Material de construcción fabricado a partir de arcilla cocida a altas temperaturas, empleado frecuentemente para revestimientos de superficies como suelos y paredes.",
+      "english description": "Construction material manufactured from clay fired at high temperatures, frequently used for surface coverings such as floors and walls."
+    }
+  },
+  "BAF2_03_Perfil d'alumini anoditzat": {
+    "input": {
+      "raw_mat_name": "BAF2_03_Perfil d'alumini anoditzat",
+      "origin_ifc_type": "IfcSlab"
+    },
+    "output": {
+      "name": "Perfil d'alumini anoditzat",
+      "variations": [
+        "Perfil de aluminio anodizado",
+        "Aluminio anodizado",
+        "Perfil d'alumini anoditzat",
+        "Alumini anoditzat",
+        "Anodized aluminum profile",
+        "Anodized aluminum"
+      ],
+      "spanish description": "Elemento constructivo de aluminio que ha sido sometido a un proceso de anodizado para aumentar su resistencia a la corrosión y mejorar su acabado superficial. Se utiliza habitualmente en cerramientos, marcos de ventanas, puertas y otras aplicaciones arquitectónicas.",
+      "english description": "Construction element made of aluminum that has undergone an anodizing process to enhance its corrosion resistance and improve its surface finish. It is commonly used in enclosures, window frames, doors, and other architectural applications."
+    }
+  },
+  "<Unnamed>": {
+    "input": {
+      "raw_mat_name": "<Unnamed>",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Unnamed",
+      "variations": [
+        "Material no especificado",
+        "Sin denominación",
+        "Material no especificat",
+        "Sense denominació",
+        "Unspecified material",
+        "Undefined material"
+      ],
+      "spanish description": "Este identificador indica que el material del elemento de construcción no ha sido especificado o nombrado explícitamente en el modelo IFC/BIM.",
+      "english description": "This identifier indicates that the material of the building element has not been explicitly specified or named within the IFC/BIM model."
+    }
+  },
+  "BA1D_03_Finestra de Fusta": {
+    "input": {
+      "raw_mat_name": "BA1D_03_Finestra de Fusta",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Finestra de Fusta",
+      "variations": [
+        "Madera",
+        "Ventana de madera",
+        "Fusta",
+        "Finestra de fusta",
+        "Wood",
+        "Wooden window"
+      ],
+      "spanish description": "Ventana construida con madera.",
+      "english description": "Window constructed with wood."
+    }
+  },
+  "BAFA_01_Porta d'alumini": {
+    "input": {
+      "raw_mat_name": "BAFA_01_Porta d'alumini",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Porta d'alumini",
+      "variations": [
+        "Puerta de aluminio",
+        "Carpintería de aluminio",
+        "Porta d'alumini",
+        "Fusteria d'alumini",
+        "Aluminum door",
+        "Aluminium joinery"
+      ],
+      "spanish description": "Descripción de una puerta cuyo elemento principal de fabricación es el aluminio.",
+      "english description": "Description of a door primarily manufactured using aluminium."
+    }
+  },
+  "BAP3_01_Bastiment de Fusta": {
+    "input": {
+      "raw_mat_name": "BAP3_01_Bastiment de Fusta",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Bastiment de Fusta",
+      "variations": [
+        "Marco de madera",
+        "Entramado de madera",
+        "Bastiment de fusta",
+        "Estructura de fusta",
+        "Wood frame",
+        "Timber frame"
+      ],
+      "spanish description": "Elemento constructivo de madera que forma una estructura de soporte o un marco.",
+      "english description": "A construction element made of wood that forms a supporting structure or a frame."
+    }
+  },
+  "BAQD_05_Panel de Fusta": {
+    "input": {
+      "raw_mat_name": "BAQD_05_Panel de Fusta",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Panel de Fusta",
+      "variations": [
+        "Panel de madera",
+        "Tablero de madera",
+        "Tauler de fusta",
+        "Placa de fusta",
+        "Wood panel",
+        "Timber board"
+      ],
+      "spanish description": "Elemento constructivo prefabricado, generalmente plano, compuesto de madera o derivados de la madera, utilizado para revestimientos, estructuras o divisiones.",
+      "english description": "A prefabricated, usually flat, construction element made of wood or wood-based materials, used for cladding, structures, or partitions."
+    }
+  },
+  "BAV3_01_Porticó de Fusta": {
+    "input": {
+      "raw_mat_name": "BAV3_01_Porticó de Fusta",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Porticó de Fusta",
+      "variations": [
+        "Pórtico de Madera",
+        "Celosía de Madera",
+        "Gelosia de Fusta",
+        "Pèrgola de Fusta",
+        "Wooden Portico",
+        "Timber Louver"
+      ],
+      "spanish description": "Elemento constructivo de madera que puede ser una estructura ligera como un pórtico, una celosía o una persiana, utilizado para protección solar o como cerramiento.",
+      "english description": "A wooden construction element, which can be a light structure such as a portico, a louver, or a shutter, used for sun protection or as an enclosure."
+    }
+  },
+  "BAZG_01_Ferramenta Porta": {
+    "input": {
+      "raw_mat_name": "BAZG_01_Ferramenta Porta",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Ferramenta Porta",
+      "variations": [
+        "Herrajes de puerta",
+        "Ferretería de puerta",
+        "Ferramenta de porta",
+        "Guarniments de porta",
+        "Door hardware",
+        "Door ironmongery"
+      ],
+      "spanish description": "Conjunto de elementos y accesorios que se instalan en una puerta para su correcto funcionamiento, fijación y seguridad, incluyendo bisagras, manillas, cerraduras y otros herrajes.",
+      "english description": "A collection of components and accessories installed on a door to ensure its proper function, fastening, and security, including hinges, handles, locks, and other fittings."
+    }
+  },
+  "BC12_01_Vidre": {
+    "input": {
+      "raw_mat_name": "BC12_01_Vidre",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Vidre",
+      "variations": [
+        "Vidrio",
+        "Cristal",
+        "Vidre",
+        "Vidre pla",
+        "Glass",
+        "Glazing"
+      ],
+      "spanish description": "Un material transparente y rígido, utilizado principalmente en la construcción para permitir el paso de la luz natural en ventanas, puertas, muros cortina y otras aplicaciones donde se requiere visibilidad o estética luminosa.",
+      "english description": "A transparent and rigid material, primarily used in construction to allow natural light transmission in windows, doors, curtain walls, and other applications requiring visibility or luminous aesthetics."
+    }
+  },
+  "Default": {
+    "input": {
+      "raw_mat_name": "Default",
+      "origin_ifc_type": "IfcDoor"
+    },
+    "output": {
+      "name": "Default Material",
+      "variations": [
+        "Material predeterminado",
+        "Material genérico",
+        "Material per defecte",
+        "Material genèric",
+        "Default material",
+        "Generic material"
+      ],
+      "spanish description": "Este identificador se refiere a un material de construcción genérico o por defecto, utilizado cuando no se ha especificado un material concreto para un elemento en un modelo BIM/IFC. No posee propiedades físicas o estéticas detalladas.",
+      "english description": "This identifier refers to a generic or default construction material, used when no specific material has been assigned to an element in a BIM/IFC model. It does not possess detailed physical or aesthetic properties."
+    }
+  },
+  "B433_01_Fusta": {
+    "input": {
+      "raw_mat_name": "B433_01_Fusta",
+      "origin_ifc_type": "IfcBeam"
+    },
+    "output": {
+      "name": "Fusta",
+      "variations": [
+        "Madera",
+        "Tablero de madera",
+        "Fusta",
+        "Tauló de fusta",
+        "Wood",
+        "Timber"
+      ],
+      "spanish description": "Material de construcción de origen vegetal, empleado habitualmente en estructuras, revestimientos y mobiliario.",
+      "english description": "Construction material of plant origin, commonly used in structures, cladding, and furniture."
+    }
+  },
+  "B44Z _01_Acer_ASTM A36": {
+    "input": {
+      "raw_mat_name": "B44Z _01_Acer_ASTM A36",
+      "origin_ifc_type": "IfcBeam"
+    },
+    "output": {
+      "name": "Acero ASTM A36",
+      "variations": [
+        "Acero ASTM A36",
+        "Acero estructural",
+        "Acer ASTM A36",
+        "Acer estructural",
+        "ASTM A36 Steel",
+        "Structural Carbon Steel"
+      ],
+      "spanish description": "Elemento constructivo de acero, específicamente de grado ASTM A36, utilizado comúnmente en estructuras y componentes de construcción general.",
+      "english description": "Construction element made of steel, specifically of ASTM A36 grade, commonly used in structures and general construction components."
+    }
+  }
+}
