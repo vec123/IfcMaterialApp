@@ -39,8 +39,8 @@ st.header("🪄 Robust Material Parsing Pipeline")
 st.markdown("""
             If your data is not in a .json you may use this text field to just dump it in. 
             An AI-Agent will try to extract the relevant information and create the .json that you can download.
-            Note that each material should have a name, density, heat capacity and thermal conductivity with the stated units.
-            Furthermore, the materials can directly be uploaded to the vector database, 
+            Note that each material should have a name, density, heat capacity and thermal conductivity.
+            These materials can directly be uploaded to the vector database, 
             enabling semantic search with natural language. You should double check it.
             This feature is the newest, so we apologize if it does not work perfectly yet.""")
 if "parsed_results" not in st.session_state:
