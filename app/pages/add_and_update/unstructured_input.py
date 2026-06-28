@@ -35,7 +35,7 @@ else:
         st.session_state.materials_db = json.load(f)
 
 # ── 3. INTERFACE ──────────────────────────────────────────────────────────
-st.header("🪄 Robust Material Parsing Pipeline")
+st.header("🪄 Agentic Material Parsing ")
 st.markdown("""
             If your data is not in a .json you may use this text field to just dump it in. 
             An AI-Agent will try to extract the relevant information and create the .json that you can download.
