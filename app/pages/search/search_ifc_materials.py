@@ -80,7 +80,7 @@ with st.sidebar:
 # User Entry 
 user_query = st.text_input(
     "Enter raw identifier or material description:", 
-    placeholder="e.g., B051_01_Morter or high-density mineral wool panels"
+    placeholder="e.g., Morter or mineral wool panels"
 )
 
 #limit = st.slider("Max unique items to return", min_value=1, max_value=50, value=10)
